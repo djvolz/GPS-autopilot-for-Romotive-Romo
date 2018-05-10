@@ -2,6 +2,8 @@ floorDrone
 ==========
 iPhone app to control Romotive Romo
 
+![romo](https://cdn.geekwire.com/wp-content/uploads/2017/04/romo-robot.jpg)
+
 Note that the app can only be run on an iOS device and does not function on the iOS simulator.
 This is because the RMCharacter framework and RMCore framework are both imported in the same file.
 This causes a duplicate symbol error. This same issue occurs in the HelloRomo example app provided by Romotive.
